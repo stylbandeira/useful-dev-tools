@@ -8,6 +8,7 @@
 - [Code Playgrounds](code-playgrounds.md)
 - [Desktop Tools](desktop-tools.md)
 - [Web Tools](web-tools.md)
+- [Commands](commands.md)
 - [Android Apps](android-apps.md)
 - [IOS Apps](ios-apps.md)
 
